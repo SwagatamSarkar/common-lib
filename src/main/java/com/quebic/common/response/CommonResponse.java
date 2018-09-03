@@ -5,7 +5,6 @@ public class CommonResponse {
 	private int status;
 	private Object message;
 	
-	// Test commit trigger
 	public CommonResponse(int status, Object message) {
 		this.status = status;
 		this.message = message;
